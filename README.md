@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+profile...;Loading+Dzakkiyansyah.dev...;Full+Stack+Developer;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+profile...;Loading+curlcode.dev...;Full+Stack+Developer;"/>
 
 </div>
 
@@ -40,7 +40,7 @@ Database/
 
 LinkedIn  : https://linkedin.com/in/dzakkiyansyah
 Instagram : https://instagram.com/dzakkiyansyahh
-Portfolio : https://dzakkiyansyah.com
+Portfolio : https://curlcode.com
 Email     : @email.com
 
 └─$ _
